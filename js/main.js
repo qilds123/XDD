@@ -87,24 +87,10 @@ var songs = [
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     },
     {
-        'name': '愛．這件事情',
-        'artist': '傅又宣',
-        'album': 'n/a',
-        'url': 'music/愛．這件事情.mp3',
-        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
-    },
-    {
         'name': '多想愛你',
         'artist': '季彥霖',
         'album': 'n/a',
         'url': 'music/多想愛你.mp3',
-        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
-    },
-    {
-        'name': '少年',
-        'artist': '夢然',
-        'album': 'n/a',
-        'url': 'music/少年.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     },
     {
@@ -178,13 +164,6 @@ var songs = [
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     },
     {
-        'name': '感謝你曾來過',
-        'artist': 'Ayo97 + 阿涵',
-        'album': 'n/a',
-        'url': 'music/感謝你曾來過.mp3',
-        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
-    },
-    {
         'name': 'Forever Young',
         'artist': '艾怡良',
         'album': 'n/a',
@@ -227,10 +206,136 @@ var songs = [
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     },
     {
-        'name': '忘了你忘了我',
-        'artist': '王傑',
+        'name': '不是因為天氣晴朗才愛你',
+        'artist': '理想混蛋',
         'album': 'n/a',
-        'url': 'music/忘了你忘了我.mp3',
+        'url': 'music/不是因為天氣晴朗才愛你.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '丟了你',
+        'artist': '井朧',
+        'album': 'n/a',
+        'url': 'music/丟了你.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '五月夜話',
+        'artist': '水神&史蒂芬',
+        'album': 'n/a',
+        'url': 'music/五月夜話.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '刻在我心底的名字',
+        'artist': '盧廣仲',
+        'album': 'n/a',
+        'url': 'music/刻在我心底的名字.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '在沒有你以後',
+        'artist': '張智成',
+        'album': 'n/a',
+        'url': 'music/在沒有你以後.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '在這座城市遺失了你',
+        'artist': '告五人',
+        'album': 'n/a',
+        'url': 'music/在這座城市遺失了你.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+     {
+        'name': '平衡木',
+        'artist': '理想混蛋',
+        'album': 'n/a',
+        'url': 'music/平衡木.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '失重前幸福',
+        'artist': '李艾薇',
+        'album': 'n/a',
+        'url': 'music/失重前幸福.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '心如止水',
+        'artist': 'Ice Paper',
+        'album': 'n/a',
+        'url': 'music/心如止水.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '慢走不送',
+        'artist': 'J.Sheon',
+        'album': 'n/a',
+        'url': 'music/慢走不送.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '晚安',
+        'artist': '顏人中',
+        'album': 'n/a',
+        'url': 'music/晚安.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '水星記',
+        'artist': '郭頂',
+        'album': 'n/a',
+        'url': 'music/水星記.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '炙愛',
+        'artist': '陳忻玥',
+        'album': 'n/a',
+        'url': 'music/炙愛.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '真的傻',
+        'artist': '徐嘉瑩',
+        'album': 'n/a',
+        'url': 'music/真的傻.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '若即若離',
+        'artist': 'K!dingboi',
+        'album': 'n/a',
+        'url': 'music/若即若離.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '過熱',
+        'artist': '周湯豪',
+        'album': 'n/a',
+        'url': 'music/過熱.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '醜人多作怪',
+        'artist': '告五人',
+        'album': 'n/a',
+        'url': 'music/醜人多作怪.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '重感情的廢物',
+        'artist': 'TRASH',
+        'album': 'n/a',
+        'url': 'music/重感情的廢物.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '高分貝',
+        'artist': '呂士軒',
+        'album': 'n/a',
+        'url': 'music/高分貝.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
