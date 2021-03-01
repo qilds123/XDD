@@ -216,7 +216,7 @@ var songs = [
         'name': '丟了你',
         'artist': '井朧',
         'album': 'n/a',
-        'url': 'music/丟了你.mp3',
+        'url': 'music/丢了你.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     },
     {
@@ -305,7 +305,7 @@ var songs = [
     },
     {
         'name': '若即若離',
-        'artist': 'K!dingboi',
+        'artist': 'K!ddingboi',
         'album': 'n/a',
         'url': 'music/若即若離.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
