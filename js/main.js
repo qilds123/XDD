@@ -337,7 +337,78 @@ var songs = [
         'album': 'n/a',
         'url': 'music/高分貝.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '有一種悲傷',
+        'artist': 'A-Lin',
+        'album': 'n/a',
+        'url': 'music/有一種悲傷.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '慢慢喜歡你',
+        'artist': '吳海文',
+        'album': 'n/a',
+        'url': 'music/慢慢喜歡你.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '愛的可能',
+        'artist': '吳海文',
+        'album': 'n/a',
+        'url': 'music/愛的可能.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '你給我聽好',
+        'artist': '吳海文',
+        'album': 'n/a',
+        'url': 'music/你給我聽好.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '夢一場',
+        'artist': '吳海文',
+        'album': 'n/a',
+        'url': 'music/夢一場.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '我把我的青春給你',
+        'artist': '好樂團',
+        'album': 'n/a',
+        'url': 'music/我把我的青春給你.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '魚',
+        'artist': '怕胖團',
+        'album': 'n/a',
+        'url': 'music/魚.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '眼鏡仔',
+        'artist': '莫宰羊',
+        'album': 'n/a',
+        'url': 'music/眼鏡仔.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '未接來電',
+        'artist': '莫宰羊',
+        'album': 'n/a',
+        'url': 'music/未接來電.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '我們的愛',
+        'artist': 'FIR',
+        'album': 'n/a',
+        'url': 'music/我們的愛.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
+    
 ];
 
 for (index = 0; index < songs.length; index++) {
